@@ -14,7 +14,7 @@
     "fibers": "^5.0.0",
     "filesize": "^3.5.11",
     "moment": "^2.20.1",
-    "moment-timezone": "^0.5.14",
+    "moment-timezone": "^0.5.35",
     "multimatch": "^2.1.0",
     "node-fetch": "^1.7.3",
     "restify-clients": "^2.6.7",
